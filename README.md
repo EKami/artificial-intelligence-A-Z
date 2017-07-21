@@ -1,10 +1,6 @@
 # SuperDataScience Artificial intelligence A-Z course
 
-This repository contains all my projects from the [SuperDatascience Artificial intelligence A-Z course](https://www.udemy.com/deeplearning)
-
-## # SuperDataScience Deep learning A-Z course
-
-This repository contains all my projects from the [SuperDatascience Deep learning A-Z course](https://www.udemy.com/artificial-intelligence-az/)
+This repository contains all my projects from the [SuperDatascience Artificial intelligence A-Z course](https://www.udemy.com/artificial-intelligence-az/)
 
 [Link to the resource files](https://www.superdatascience.com/artificial-intelligence/)
 
