@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.idea/
+
+# Custom
+Part_1_Deep_Q-Learning/Module_1_Self Driving_Car/last_brain.pth
 
 # C extensions
 *.so
