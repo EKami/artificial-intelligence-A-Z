@@ -1,0 +1,4 @@
+To run the project through ssh you may need to install http://www.virtualgl.org/
+Then log in ssh to your machine with:
+
+/opt/VirtualGL/bin/vglconnect {user}@{server}

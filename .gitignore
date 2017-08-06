@@ -6,6 +6,8 @@ __pycache__/
 
 # Custom
 Part_1_Deep_Q-Learning/Module_1_Self Driving_Car/last_brain.pth
+Part_2_Deep_Convolutional_Q-Learning/Module_2_Doom/videos/*
+Part_2_Deep_Convolutional_Q-Learning/Module_2_Doom/vizdoom.ini
 
 # C extensions
 *.so
